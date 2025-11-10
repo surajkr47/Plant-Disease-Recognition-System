@@ -114,12 +114,6 @@ Plant-Disease-Recognition-System/
 
 ⚙️ Installation
 
-Clone the repository
-
-git clone https://github.com/your-username/Plant-Disease-Recognition-System.git
-cd Plant-Disease-Recognition-System
-
-
 Create a virtual environment
 
 python -m venv venv
@@ -153,7 +147,7 @@ Model	Accuracy	Loss
 Custom CNN	94.5%	0.23
 MobileNetV2	97.8%	0.12
 
-(You can update these results based on your experiment.)
+
 
 🚀 Future Improvements
 
